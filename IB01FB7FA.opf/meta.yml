@@ -1,0 +1,27 @@
+id: IB01FB7FA
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-24T18:00:09+00:00'
+last_modified: '2022-06-07T14:00:30.604131+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W3PD185
+  title: དབུས་འགྱུར་གྱི་གདན་ས་ཆེན་པོ་སེ་ར་ཐེག་ཆེན་གླིང་གི་གདན་རབས་ངོ་མཚར་ནོར་བུའི་ཕྲེང་བ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
+  base:
+    '6649':
+      image_group_id: I4PD2986
+      title: ''
+      total_pages: 1102
+      order: 1
+      base_file: 6649.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
